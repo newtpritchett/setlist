@@ -1,3 +1,4 @@
 /target
 /sets
-./.DS_Store
+.DS_Store
+.*\.bork
